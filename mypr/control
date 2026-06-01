@@ -1,9 +1,0 @@
-Package: com.xexternal.hud
-Name: XExternalHUD
-Version: 1.8.4
-Architecture: iphoneos-arm64
-Description: External in-game HUD overlay (session timer, clock, battery, RAM, CPU, network speed) for TrollStore. iOS 14.0-17.0.
-Maintainer: xauszulay
-Author: xauszulay
-Section: Utilities
-Depends: firmware (>= 14.0)

@@ -22,7 +22,7 @@ Built on [TrollSpeed](https://github.com/Lessica/TrollSpeed) (MIT) — the same 
 ## Requirements
 
 - iOS 14–17, **TrollStore**
-- arm64
+- arm64 (e)
 
 ## Install
 
